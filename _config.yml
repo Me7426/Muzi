@@ -1,1 +1,1 @@
-include: [.well-known, .text]
+include: [.well-known/, .text]
